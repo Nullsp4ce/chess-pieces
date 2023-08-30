@@ -3,7 +3,7 @@ Minimalistic chess set, including 5D-specific pieces
 
 ## List of Pieces
 
-![pieces.png](pieces.png)
+![pieces_resize](https://github.com/Nullsp4ce/chess-pieces/assets/36662849/b415d520-9c41-4c49-aa86-d71c87b2b563)
 
 in reading order, with corresponding notation: 
 
@@ -43,6 +43,10 @@ Coupled with more solid insides, this builds smooth motion when animated (IMO). 
 Rook + bishop produces a 2D queen (a princess), and 5D queen is modified from it to reflect the possibilities.
 
 Knight, unicorn and dragon has different tails, and unicorn/dragon's tail matches the amount of dimensions they use at once.
+
+![dragon](https://github.com/Nullsp4ce/chess-pieces/assets/36662849/bcb5d433-9113-4d37-b416-a0654096e3b5)
+
+Or does the dragon look like a dragon?
 
 ## Acknowledgements
 
