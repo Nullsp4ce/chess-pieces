@@ -28,8 +28,9 @@ in reading order, with corresponding notation:
 ## Files & Usage
 
 - `pieces.png` includes `PNBRQK/WUDSYC` in a format used by 5D Chess client.
-  to use in 5D Chess, you should not change the file's name, dimension and color mode.
-- Individual pieces (svg or png) could be uploaded.
+- To use in 5D Chess, locate the game's local file folder (In Steam, Settings button for the game > `Manage` > `Browse Local Files`),
+  rename the original `pieces.png` to something else and put the file into the folder.
+  You should not change the file's name, dimension and color mode.
 - License: CC BY-SA 4.0
 
 ## Design
@@ -46,5 +47,7 @@ Knight, unicorn and dragon has different tails, and unicorn/dragon's tail matche
 ## Acknowledgements
 
 For 5D pieces and notation, see also [adri326/5dchess-notation](https://github.com/adri326/5dchess-notation#moves)
+
+Also check out [CrazyPenguin's Set](https://github.com/CrazyPenguin0111/CrazyPenguins-5D-Chess-Set/tree/main)!
 
 Got it work in the client by the help from the 5D Chess Community <3
