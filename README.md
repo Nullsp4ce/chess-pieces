@@ -1,11 +1,14 @@
 # Nsp's chess pieces
-Minimalistic chess set, including 5D-specific pieces
+
+Here I drawed various chess iconsets, standard and 5D-specific pieces.
 
 ## List of Pieces
 
 ![pieces_resize](https://github.com/Nullsp4ce/chess-pieces/assets/36662849/b415d520-9c41-4c49-aa86-d71c87b2b563)
 
-in reading order, with corresponding notation: 
+Shown is an example of iconset file.
+
+The pieces and their corresponding notations are:
 
 #### Standard (top)
 
@@ -32,21 +35,6 @@ in reading order, with corresponding notation:
   rename the original `pieces.png` to something else and put the file into the folder.
   You should not change the file's name, dimension and color mode.
 - License: CC BY-SA 4.0
-
-## Design
-
-This piece set is inspired by 'Shapes' piece set used in lichess.
-
-Instead of pieces pointing to where they could go, here they face the direction with their edges.
-Coupled with more solid insides, this builds smooth motion when animated (IMO). Mainly affects R/B/princess.
-
-Rook + bishop produces a 2D queen (a princess), and 5D queen is modified from it to reflect the possibilities.
-
-Knight, unicorn and dragon has different tails, and unicorn/dragon's tail matches the amount of dimensions they use at once.
-
-![dragon](https://github.com/Nullsp4ce/chess-pieces/assets/36662849/bcb5d433-9113-4d37-b416-a0654096e3b5)
-
-Or does the dragon look like a dragon?
 
 ## Acknowledgements
 
